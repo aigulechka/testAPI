@@ -6,6 +6,8 @@ public class TestConnection {
 
     @Test
     public void test1(){
+        System.out.println("testing connection");
+
 
     }
 }
